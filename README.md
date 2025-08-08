@@ -1,10 +1,10 @@
 <img src="YOUR_BANNER_IMAGE_URL" alt="Banner" width="100%" />
 
-# 👋 Hi, I'm Dipto  
-### 🚀 Frontend Developer
+# 👋 Hi, I'm Dipto Ghosh
+### 🚀 MERN Stack Developer
 
 ## About Me
-I am a passionate frontend developer with a love for creating modern, responsive web applications...
+I am a MERN Stack Developer. I love coding, and I enjoy solving complex problems and taking on challenges.
 
 ## 🔭 Current Activities
 - Exploring Next.js
