@@ -52,12 +52,11 @@ I am a MERN Stack Developer. I love coding, and I enjoy solving complex problems
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](YOUR_LINKEDIN_LINK)
 
 ## 📊 GitHub Stats
-## 📊 GitHub Stats
 
-![GitHub Contribution Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical)
+![GitHub Contribution Stats](https://github-readme-stats.vercel.app/api?username=DevByDipto&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DevByDipto&layout=compact&theme=radical)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com?user=DevByDipto&theme=radical)
 
 
