@@ -21,7 +21,7 @@ I am a MERN Stack Developer. I love coding, and I enjoy solving complex problems
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3" />
   <img src="https://getbootstrap.com/docs/5.0/assets/brand/bootstrap-logo-shadow.png" width="40" height="40" alt="Bootstrap" />
   <img src="https://daisyui.com/favicon.ico" width="40" height="40" alt="DaisyUI" />
-<img src="https://raw.githubusercontent.com/tailwindlabs/tailwindcss/HEAD/.github/logo-light.svg" width="500" height="500" alt="Tailwind CSS" />
+<img src="https://raw.githubusercontent.com/tailwindlabs/tailwindcss/HEAD/.github/logo-light.svg" width="100" height="300" alt="Tailwind CSS" />
 </p>
 
 ### Backend
