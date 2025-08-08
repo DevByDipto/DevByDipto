@@ -21,7 +21,7 @@ I am a MERN Stack Developer. I love coding, and I enjoy solving complex problems
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3" />
   <img src="https://getbootstrap.com/docs/5.0/assets/brand/bootstrap-logo-shadow.png" width="40" height="40" alt="Bootstrap" />
   <img src="https://daisyui.com/favicon.ico" width="40" height="40" alt="DaisyUI" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="40" height="40" alt="Tailwind CSS" />
+<img src="https://raw.githubusercontent.com/tailwindlabs/tailwindcss/HEAD/.github/logo-light.svg" width="40" height="40" alt="Tailwind CSS" />
 </p>
 
 ### Backend
@@ -36,7 +36,7 @@ I am a MERN Stack Developer. I love coding, and I enjoy solving complex problems
   <img src="https://axios-http.com/assets/favicon.ico" width="40" height="40" alt="Axios" />
   <img src="https://stripe.com/favicon.ico" width="40" height="40" alt="Stripe" />
 <img src="https://raw.githubusercontent.com/TanStack/query/main/media/emblem-light.svg" width="40" height="40" alt="TanStack Query" />
-<img src="https://raw.githubusercontent.com/remix-run/react-router/main/docs/_static/logo.svg" width="40" height="40" alt="React Router" />
+<img src="https://raw.githubusercontent.com/remix-run/react-router/main/logo/primary-logo.png" width="40" height="40" alt="React Router" />
 </p>
 
 ### Authentication & Security
