@@ -8,13 +8,44 @@ I am a MERN Stack Developer. I love coding, and I enjoy solving complex problems
 
 ## 🔭 Current Activities
 - Exploring Next.js
-- Working on a tourism website
-- Learning advanced TypeScript
+- Working on a BimaBondhu website
+- Learning TypeScript
 
 ## 🛠 Skills
+
 ### Frontend
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/> 
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" alt="React" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" height="40" alt="Next.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="40" height="40" alt="Tailwind CSS" />
+  <img src="https://getbootstrap.com/docs/5.0/assets/brand/bootstrap-logo-shadow.png" width="40" height="40" alt="Bootstrap" />
+  <img src="https://daisyui.com/favicon.ico" width="40" height="40" alt="DaisyUI" />
+</p>
+
+### Backend
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" alt="Node.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" height="40" alt="Express.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40" alt="MongoDB" />
+</p>
+
+### Libraries & Tools
+<p align="left">
+  <img src="https://reactrouter.com/favicon-32x32.png" width="40" height="40" alt="React Router" />
+  <img src="https://axios-http.com/assets/favicon.ico" width="40" height="40" alt="Axios" />
+  <img src="https://tanstack.com/_build/assets/logo-color-300w-BbDrt5ZK.png" width="40" height="40" alt="TanStack Query" />
+  <img src="https://stripe.com/favicon.ico" width="40" height="40" alt="Stripe" />
+</p>
+
+### Authentication & Security
+<p align="left">
+  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40" height="40" alt="Firebase" />
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/jsonwebtokens.svg" width="40" height="40" alt="JWT" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" height="40" alt="NextAuth.js" />
+</p>
+
 
 ## 🌐 Connect With Me
 [![GitHub](https://img.shields.io/badge/GitHub-000?logo=github&logoColor=white)](YOUR_GITHUB_LINK)
