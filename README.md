@@ -1,4 +1,4 @@
-<img src="YOUR_BANNER_IMAGE_URL" alt="Banner" width="100%" />
+<img src="https://i.ibb.co.com/rKyJJvkX/Black-Minimalist-Linkedin-Banner.png" alt="Banner" width="100%" />
 
 # 👋 Hi, I'm Dipto Ghosh
 ### 🚀 MERN Stack Developer
