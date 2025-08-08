@@ -1,4 +1,4 @@
-<img src="https://i.ibb.co.com/rKyJJvkX/Black-Minimalist-Linkedin-Banner.png" alt="Banner" width="100%" />
+<img src="https://i.ibb.co.com/qZHyD5C/Black-Minimalist-Linkedin-Banner-1.png" alt="Banner" width="100%" />
 
 # 👋 Hi, I'm Dipto Ghosh
 ### 🚀 MERN Stack Developer
