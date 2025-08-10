@@ -48,7 +48,7 @@ I am a MERN Stack Developer. I love coding, and I enjoy solving complex problems
 
 
 ## 🌐 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](www.linkedin.com/in/dipto-ghosh-1a2b3c)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dipto-ghosh-1a2b3c/)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-Contact-green?logo=whatsapp)](https://wa.me/8801891552786)
 
 ## 📊 GitHub Stats
