@@ -65,8 +65,6 @@ Beyond tech, I enjoy spending quality time with my close ones, gardening, and wa
     <td valign="top">
       <img src="https://github-readme-stats.vercel.app/api?username=DevByDipto&show_icons=true&theme=radical" />
     </td>
-  </tr>
-  <tr>
     <td valign="top">
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=DevByDipto&theme=radical" />
     </td>
