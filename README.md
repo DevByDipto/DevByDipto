@@ -59,7 +59,7 @@ Beyond tech, I enjoy spending quality time with my close ones, gardening, and wa
 
 <table>
   <tr>
-    <td valign="top" align="center" rowspan="2" style="padding: 0 20px;">
+    <td valign="top" align="center" colspan="2" style="padding: 0 20px;">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevByDipto&layout=compact&theme=radical" />
     </td>
     <td valign="top">
