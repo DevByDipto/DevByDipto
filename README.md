@@ -4,7 +4,11 @@
 ### 🚀 MERN Stack Developer
 
 ## About Me
-I am a MERN Stack Developer. I love coding, and I enjoy solving complex problems and taking on challenges.
+I am an early-career developer who has successfully completed freelance work, an intermediate MERN project, and several hands-on practice projects that have strengthened my fundamentals.
+
+I am passionate about coding, solving complex problems, and collaborating effectively within teams. I continuously seek to learn new technologies, embrace challenges, and deliver high-quality solutions that create a positive impact.
+
+Beyond tech, I enjoy spending quality time with my close ones, gardening, and watching informative podcasts or movies.
 
 ## 🔭 Current Activities
 - Exploring Next.js
