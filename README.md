@@ -58,10 +58,12 @@ Beyond tech, I enjoy spending quality time with my close ones, gardening, and wa
 ## 📊 GitHub Stats
 
 <table>
-  <tr>
+     <tr>
     <td valign="top" align="center" colspan="2" style="padding: 0 20px;">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevByDipto&layout=compact&theme=radical" />
     </td>
+        </tr>
+        <tr>
     <td valign="top">
       <img src="https://github-readme-stats.vercel.app/api?username=DevByDipto&show_icons=true&theme=radical" />
     </td>
