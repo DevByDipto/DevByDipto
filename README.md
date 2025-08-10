@@ -48,8 +48,8 @@ I am a MERN Stack Developer. I love coding, and I enjoy solving complex problems
 
 
 ## 🌐 Connect With Me
-[![GitHub](https://img.shields.io/badge/GitHub-000?logo=github&logoColor=white)](YOUR_GITHUB_LINK)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](YOUR_LINKEDIN_LINK)
+**WhatsApp** : [01891552786]
 
 ## 📊 GitHub Stats
 
