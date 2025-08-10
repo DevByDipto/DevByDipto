@@ -57,11 +57,21 @@ Beyond tech, I enjoy spending quality time with my close ones, gardening, and wa
 
 ## 📊 GitHub Stats
 
-![GitHub Contribution Stats](https://github-readme-stats.vercel.app/api?username=DevByDipto&show_icons=true&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DevByDipto&show_icons=true&theme=radical" alt="GitHub Contribution Stats" />
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DevByDipto&layout=compact&theme=radical)
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevByDipto&layout=compact&theme=radical" alt="Top Languages" />
+    </td>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=DevByDipto&theme=radical" alt="GitHub Streak" />
+    </td>
+  </tr>
+</table>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DevByDipto&theme=radical)
 
 ## Contact number
 wp: 01891552786
