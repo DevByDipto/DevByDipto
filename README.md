@@ -13,7 +13,7 @@ Beyond tech, I enjoy spending quality time with my close ones, gardening, and wa
 ## 🔭 Current Activities
 - Exploring Next.js
 - Working on a BimaBondhu website
-- Learning TypeScript
+- Learning DSA
 
 ## 🛠 Skills
 
