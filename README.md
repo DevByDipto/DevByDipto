@@ -57,20 +57,20 @@ Beyond tech, I enjoy spending quality time with my close ones, gardening, and wa
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DevByDipto&show_icons=true&theme=radical" alt="GitHub Contribution Stats" />
-</p>
-
 <table>
   <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevByDipto&layout=compact&theme=radical" alt="Top Languages" />
+    <td valign="top">
+      <img src="https://github-readme-stats.vercel.app/api?username=DevByDipto&show_icons=true&theme=radical" />
     </td>
-    <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=DevByDipto&theme=radical" alt="GitHub Streak" />
+    <td valign="top" align="center" style="padding: 0 20px;">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevByDipto&layout=compact&theme=radical" />
+    </td>
+    <td valign="top">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=DevByDipto&theme=radical" />
     </td>
   </tr>
 </table>
+
 
 
 ## Contact number
