@@ -10,6 +10,9 @@ I am passionate about coding, solving complex problems, and collaborating effect
 
 Beyond tech, I enjoy spending quality time with my close ones, gardening, and watching informative podcasts or movies.
 
+## Portfolio
+Check out my portfolio: [https://your-portfolio-link.com](https://your-portfolio-link.com)
+
 ## 🔭 Current Activities
 - Exploring Next.js
 - Working on a BimaBondhu website
