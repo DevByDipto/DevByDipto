@@ -100,23 +100,7 @@ Check out my portfolio: https://dev-by-dipto.vercel.app
 </table>
 
 
-## 📊 GitHub Stats
 
-<table>
-  <tr>
-    <td align="center" colspan="2">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevByDipto&layout=compact&theme=radical&count_private=true" />
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=DevByDipto&show_icons=true&theme=radical&count_private=true" />
-    </td>
-    <td>
-      <img src="https://streak-stats.demolab.com?user=DevByDipto&theme=radical" />
-    </td>
-  </tr>
-</table>
 
 
 ## Contact number
